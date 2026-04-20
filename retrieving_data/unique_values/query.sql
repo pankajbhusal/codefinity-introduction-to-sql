@@ -1,0 +1,1 @@
+SELECT DISTINCT continent from country
